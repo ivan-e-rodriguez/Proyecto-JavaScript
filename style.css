@@ -1,0 +1,45 @@
+.general-container {  display: grid;
+    grid-template-columns: 0.6fr 2.6fr 0.1fr;
+    grid-template-rows: 0.2fr 1.8fr 1fr;
+    gap: 0px 0px;
+    grid-auto-flow: row;
+    grid-template-areas:
+      "nav nav nav"
+      "menu games games"
+      "menu games games";
+  }
+
+
+  
+  .nav { 
+    grid-area: nav;
+    background-color:#3B6978 ;
+}
+
+.nav-container{
+
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: baseline;
+  }
+  
+  .menu { 
+    grid-area: menu;
+    background-color: #84A9AC; 
+}
+  
+  .games { 
+    grid-area: games; 
+    background-color: #204051;
+}
+  
+
+ #container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+

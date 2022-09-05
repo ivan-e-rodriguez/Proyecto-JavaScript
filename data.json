@@ -1,0 +1,73 @@
+[  {
+    "nombre": "Valorant", 
+    "genero": "Accion",
+    "puntuacion": 7.5,
+    "tamanio": 23, 
+    "precio": 5300,
+    "img": "./img/Valorantmin.jpg",
+    "enBiblioteca": true
+},
+{
+    "nombre":"Elden Ring",    
+    "genero": "Aventura", 
+    "puntuacion": 9.5,
+    "tamanio": 44.4,
+    "precio": 8500,
+    "img": "./img/EldenRingmin.jpg",
+    "enBiblioteca": false
+},
+{
+    "nombre":"Crash Bandicoot",
+    "genero": "Plataformas", 
+    "puntuacion": 8.0, 
+    "tamanio": 9.3, 
+    "precio": 10100,
+    "img": "./img/CrashBandicootmin.jpg",
+    "enBiblioteca": true
+},
+{
+    "nombre":"FIFA 22",  
+    "genero": "Deportes",
+    "puntuacion": 8.5, 
+    "tamanio": 32,
+    "precio": 10500,
+    "img": "./img/FIFA22min.jpg",
+    "enBiblioteca": false
+},
+{
+    "nombre":"Final Fantasy VII Remake",
+    "genero": "Aventura", 
+    "puntuacion": 9.0, 
+    "tamanio": 33,
+    "precio": 9700, 
+    "img": "./img/FinalFantasyVIIRemakemin.jpg",
+    "enBiblioteca": true
+},
+{
+    "nombre":"Super Mario Maker",  
+    "genero": "Plataformas",
+    "puntuacion": 6.8,
+    "tamanio": 3.5,
+    "precio": 4500, 
+    "img": "./img/SuperMarioMakermin.jpg",
+    "enBiblioteca": false
+},
+{
+    "nombre":"Jump King", 
+    "genero": "Plataformas", 
+    "puntuacion": 6.5,
+    "tamanio": 0.17, 
+    "precio": 2000, 
+    "img": "./img/JumpKingmin.jpg",
+    "enBiblioteca": false
+},
+{
+    "nombre": "Counter-Strike: Global Offensive",  
+    "genero": "Accion",
+    "puntuacion": 8.2,
+    "tamanio": 15,
+    "precio": 0, 
+    "img": "./img/CS-GOmin.jpg",
+    "enBiblioteca": false
+}
+]
